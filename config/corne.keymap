@@ -51,7 +51,7 @@
 
             bindings = <
 &kp GRAVE  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5    &kp NUMBER_6    &kp NUMBER_7   &kp NUMBER_8      &kp NUMBER_9       &kp NUMBER_0     &kp BSPC
-&kp LCTRL        &kp F1        &kp F2        &kp F3        &kp F4        &kp F5          &kp F6  &kp UNDERSCORE      &kp EQUAL  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &bootloader
+&kp LCTRL        &kp F1        &kp F2        &kp F3        &kp F4        &kp F5          &kp F6  &kp UNDERSCORE       &kp PLUS  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &bootloader
 &kp LSHFT        &kp F7        &kp F8        &kp F9       &kp F10       &kp F11         &kp F12        &kp PLUS       &kp LBRC          &kp RBRC           &kp PIPE   &sys_reset
                                            &kp LGUI        &trans     &kp SPACE         &kp RET          &trans  &kp RIGHT_ALT
             >;
